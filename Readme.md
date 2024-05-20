@@ -1,6 +1,6 @@
 <div align="center">
 
-# [Predictive Model to Classify Profitable Borrowers](https://github.com/ds-souvik/Predictive-model-to-classify-profitable-borrowers/blob/main/FAB%20Predictive%20model%20to%20classify%20profitable%20borrowers.pptx)
+# [Predictive Model to Classify Profitable Borrowers](https://github.com/ds-souvik/Predictive-model-to-classify-profitable-borrowers/raw/main/FAB%20Predictive%20model%20to%20classify%20profitable%20borrowers.pptx)
 
 </div>
 
@@ -102,7 +102,7 @@ Segmentation involves dividing the borrowers based on various characteristics to
 ## Author
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/54990079/125200983-9e8a4a00-e28b-11eb-9f6d-9ec4d4b8e43a.png" alt="Souvik Ganguly" width="150" height="150">
+  <img src="images/Passport_Size_photo.JPG" alt="Souvik Ganguly" width="150" height="150">
   <h2>Souvik Ganguly</h2>
   <a href="https://www.linkedin.com/in/souvik-ganguly-ds/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
@@ -115,4 +115,4 @@ Segmentation involves dividing the borrowers based on various characteristics to
 
 ---
 
-For more details, refer to the project presentation [here](https://github.com/ds-souvik/Predictive-model-to-classify-profitable-borrowers/blob/main/FAB%20Predictive%20model%20to%20classify%20profitable%20borrowers.pptx).
+For more details, refer to the project presentation [here](https://github.com/ds-souvik/Predictive-model-to-classify-profitable-borrowers/raw/main/FAB%20Predictive%20model%20to%20classify%20profitable%20borrowers.pptx).
