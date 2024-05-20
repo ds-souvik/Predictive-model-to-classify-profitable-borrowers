@@ -102,16 +102,16 @@ Segmentation involves dividing the borrowers based on various characteristics to
 ## Author
 
 <div align="center">
-  [<img target="_blank" src="https://github.com/ds-souvik/Predictive-model-to-classify-profitable-borrowers/blob/main/Images/Passport_Size_photo.JPG" width=140 height=160>]
+  <img target="_blank" src="https://github.com/ds-souvik/Predictive-model-to-classify-profitable-borrowers/blob/main/Images/Passport_Size_photo.JPG" width=140 height=160 alt="Souvik Ganguly">
   <h2>Souvik Ganguly</h2>
-  <a href="https://www.linkedin.com/in/souvik-ganguly-ds/" target="_blank">
+  <a href="https://www.linkedin.com/in/souvik-ganguly-4a9924105/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </div>
 
 ---
 
-**Connect with me**: If you would like to connect with me, feel free to reach out via [LinkedIn](https://www.linkedin.com/in/souvik-ganguly-ds/) or email me at [souvik.ganguly.ds@gmail.com](mailto:souvik.ganguly.ds@gmail.com).
+**Connect with me**: If you would like to connect with me, feel free to reach out via [LinkedIn](https://www.linkedin.com/in/souvik-ganguly-4a9924105/) or email me at [souvik.ganguly.ds@gmail.com](mailto:souvik.ganguly.ds@gmail.com).
 
 ---
 
