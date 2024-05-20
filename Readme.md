@@ -102,7 +102,7 @@ Segmentation involves dividing the borrowers based on various characteristics to
 ## Author
 
 <div align="center">
-  <img src="images/Passport_Size_photo.JPG" alt="Souvik Ganguly" width="150" height="150">
+  <img src="/images/Passport_Size_photo.JPG" alt="Souvik Ganguly" width="150" height="150">
   <h2>Souvik Ganguly</h2>
   <a href="https://www.linkedin.com/in/souvik-ganguly-ds/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
