@@ -1,6 +1,6 @@
 <div align="center">
 
-# [Predictive Model to Classify Profitable Borrowers](https://github.com/ds-souvik/Predictive-model-to-classify-profitable-borrowers/raw/main/FAB%20Predictive%20model%20to%20classify%20profitable%20borrowers.pptx)
+# [Predictive Model to Classify Profitable Borrowers](https://github.com/ds-souvik/Predictive-model-to-classify-profitable-borrowers/raw/main/Predictive%20model%20to%20classify%20profitable%20borrowers_v0.2.pptx)
 
 </div>
 
@@ -115,4 +115,4 @@ Segmentation involves dividing the borrowers based on various characteristics to
 
 ---
 
-For more details, refer to the project presentation [here](https://github.com/ds-souvik/Predictive-model-to-classify-profitable-borrowers/raw/main/FAB%20Predictive%20model%20to%20classify%20profitable%20borrowers.pptx).
+For more details, refer to the project presentation [here](https://github.com/ds-souvik/Predictive-model-to-classify-profitable-borrowers/raw/main/Predictive%20model%20to%20classify%20profitable%20borrowers_v0.2.pptx).
